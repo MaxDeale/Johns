@@ -1,0 +1,266 @@
+body {
+  background-image: url(https://storage.needpix.com/rsynced_images/yellow-textured-pattern-background-1488752082hHr.jpg);
+}
+
+h1, h2 {
+  text-align: center;
+}
+
+h3 {
+  text-align: center;
+  color: white;
+  padding-bottom: 18%;
+}
+
+body {
+  background-color: #fcd307;
+}
+
+footer {
+  text-align: center;
+  font-weight: bold;
+}
+
+.dots {
+  font-size: 4rem;
+  font-weight: bolder;
+  text-align: center;
+  padding-bottom: 2%;
+  padding-top: 8%;
+}
+
+.divider {
+  width: 100%;
+}
+
+.dots:hover {
+  color: black;
+}
+
+.nav-link {
+  color: #fcd307;
+  font-family: "archivo";
+  margin-right: 40px;
+  font-size: 20px;
+  font-weight: bolder;
+}
+
+.nav-link:hover {
+  color: black;
+}
+
+.navbar-brand:hover {
+  color: black;
+}
+
+.navbar-toggler-ic {
+  background-image: url("data:image/svg+xml;charset=utf8,%3Csvg viewBox='0 0 32 32' xmlns='http://www.w3.org/2000/svg'%3E%3Cpath stroke='rgba(255,255,255, 1)' stroke-width='2' stroke-linecap='round' stroke-miterlimit='10' d='M4 8h24M4 16h24M4 24h24'/%3E%3C/svg%3E");
+  display: inline-block;
+  width: 1.5em;
+  height: 1.5em;
+  vertical-align: middle;
+  content: "";
+  background-size: 100% 100%;
+}
+
+.letterdif {
+  color: #fcd307;
+}
+
+.brandtop {
+  color: white;
+  font-family: "Damion";
+  letter-spacing: 6px;
+}
+
+.SecHead {
+  color: black;
+  font-family: "Damion";
+  font-size: 6rem;
+  font-weight: bolder;
+  letter-spacing: 8px;
+}
+
+.slogan {
+  font-family: "Archivo";
+  letter-spacing: 10px;
+}
+
+.slogan:hover {
+  color: red;
+  font-size: 50px;
+  font-weight: bolder;
+  letter-spacing: 5px;
+  font-family: "archivo";
+}
+
+.historytext {
+  font-size: 1rem;
+  font-weight: light;
+  font-family: "archivo";
+  margin-left: 45px;
+  text-align: center;
+  line-height: 15px;
+}
+
+@media(max-width:768px) {
+  .otherpic {
+    display: none;
+  }
+
+  .contactpics {
+    display: none;
+  }
+}
+
+@media(min-width:1000px) {
+  .historytext {
+    font-size: 1.6rem;
+    font-weight: light;
+    font-family: "archivo";
+    margin-left: 45px;
+    line-height: 30px;
+  }
+}
+
+.navitem {
+  color: #fcd307;
+  margin-right: 30px;
+}
+
+.brandcss {
+  color: #fcd307;
+}
+
+.coverpic {
+  background-size: cover;
+  width: 100%;
+  height: 100%;
+}
+
+.guypic {
+  height: 100px;
+  width: 100px;
+  margin-right: 30px;
+  border: solid black 7px;
+  border-radius: 50px;
+  margin-left: 14px;
+  background-size: cover;
+}
+
+.guypics {
+  text-align: center;
+}
+
+.guypic:hover {
+  height: 120px;
+  width: 120px;
+  animation-delay: 2s;
+}
+
+.smilepic {
+  opacity: 0.2;
+  border-radius: 5px 10px 15px 20px;
+  margin-top: 90px;
+}
+
+.smilepic:hover {
+  opacity: 0.5;
+  border-radius: 5px 10px 15px 20px;
+  margin-top: 90px;
+  height: 250px;
+  width: 250px;
+}
+
+.AboutJohns {
+  background-color: #fcd307;
+  padding: 3% 3%;
+  height: 100%;
+}
+
+.Aboutext {
+  background-color: red;
+  color: white;
+  padding-top: 10%;
+}
+
+.aboutpics {
+  height: 550px;
+  text-align: center;
+}
+
+.aboutpic1 {
+  border: solid 12px #fcd307;
+  width: 380px;
+  height: 250px;
+  margin-top: 20px;
+  border-radius: 50px;
+}
+
+#contactSec {
+  background-color: #fcd307;
+}
+
+.contacts {
+  background-color: red;
+  text-align: center;
+  padding-top: 6%;
+  padding-bottom: 5%;
+}
+
+.contactext {
+  color: white;
+  text-align: center;
+  font-size: 30px;
+  padding-bottom: 12%;
+  padding-left: 5%;
+}
+
+@media(max-width:1100px) {
+  .contactext {
+    font-size: 18px;
+  }
+
+  .contactmethods {
+    display: none;
+  }
+
+  .hider {
+    display: none;
+  }
+}
+
+.contactpics {
+  width: 80px;
+  height: 80px;
+  float: left;
+  border-radius: 50px;
+  margin-bottom: 40%;
+  border: solid 5px black;
+  margin-right: 20px;
+}
+
+.contacthead {
+  padding-bottom: 2%;
+}
+
+.contactmethods {
+  margin-left: 12%;
+}
+
+.contactdetails:hover {
+  color: black;
+}
+
+.contactainer {
+  margin-left: 27%;
+}
+
+/* MENU CSS */
+/*
+.menuHead{
+
+background-color: #fcd307;
+width:100%;
+height:300px;;
+} */
